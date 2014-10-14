@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Enhanced Clojure",
+		"GitGutter",
+		"Go To Definition",
+		"Monokai Extended",
+		"Predawn",
+		"Predawn Monokai",
+		"Pylinter",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - Centurion",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"WordHighlight"
+	]
+}
